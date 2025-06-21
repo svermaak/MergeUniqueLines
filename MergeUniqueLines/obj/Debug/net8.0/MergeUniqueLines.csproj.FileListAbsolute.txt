@@ -1,0 +1,14 @@
+C:\Users\sverm\source\repos\MergeUniqueLines\MergeUniqueLines\bin\Debug\net8.0\MergeUniqueLines.exe
+C:\Users\sverm\source\repos\MergeUniqueLines\MergeUniqueLines\bin\Debug\net8.0\MergeUniqueLines.deps.json
+C:\Users\sverm\source\repos\MergeUniqueLines\MergeUniqueLines\bin\Debug\net8.0\MergeUniqueLines.runtimeconfig.json
+C:\Users\sverm\source\repos\MergeUniqueLines\MergeUniqueLines\bin\Debug\net8.0\MergeUniqueLines.dll
+C:\Users\sverm\source\repos\MergeUniqueLines\MergeUniqueLines\bin\Debug\net8.0\MergeUniqueLines.pdb
+C:\Users\sverm\source\repos\MergeUniqueLines\MergeUniqueLines\obj\Debug\net8.0\MergeUniqueLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sverm\source\repos\MergeUniqueLines\MergeUniqueLines\obj\Debug\net8.0\MergeUniqueLines.AssemblyInfoInputs.cache
+C:\Users\sverm\source\repos\MergeUniqueLines\MergeUniqueLines\obj\Debug\net8.0\MergeUniqueLines.AssemblyInfo.cs
+C:\Users\sverm\source\repos\MergeUniqueLines\MergeUniqueLines\obj\Debug\net8.0\MergeUniqueLines.csproj.CoreCompileInputs.cache
+C:\Users\sverm\source\repos\MergeUniqueLines\MergeUniqueLines\obj\Debug\net8.0\MergeUniqueLines.dll
+C:\Users\sverm\source\repos\MergeUniqueLines\MergeUniqueLines\obj\Debug\net8.0\refint\MergeUniqueLines.dll
+C:\Users\sverm\source\repos\MergeUniqueLines\MergeUniqueLines\obj\Debug\net8.0\MergeUniqueLines.pdb
+C:\Users\sverm\source\repos\MergeUniqueLines\MergeUniqueLines\obj\Debug\net8.0\MergeUniqueLines.genruntimeconfig.cache
+C:\Users\sverm\source\repos\MergeUniqueLines\MergeUniqueLines\obj\Debug\net8.0\ref\MergeUniqueLines.dll
