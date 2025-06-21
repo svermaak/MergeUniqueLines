@@ -39,7 +39,7 @@ This C# program merges unique lines from multiple input files, sorts them, and w
     ```
     bin\Release\net6.0\MergeUniqueLines.exe
     ```
-5.  Usage:
+    Usage:
     ```
     Usage: MergeUniqueLines <outputFile> <inputFile1> <inputFile2> ...
     ```       
